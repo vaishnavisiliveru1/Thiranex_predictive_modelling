@@ -62,7 +62,8 @@ We experiment with **Logistic Regression, Decision Tree, and Random Forest**, co
 
 ## Visualizations
 The following plots were generated during evaluation:
-<img width="1165" height="523" alt="result" src="https://github.com/user-attachments/assets/8d767f2d-0907-406f-89fc-cea2d129f514" />
+<img width="752" height="2317" alt="1" src="https://github.com/user-attachments/assets/0348b27e-f2e7-4035-9078-af51cb22dcae" />
+
 
 
 - **Confusion Matrices**  
